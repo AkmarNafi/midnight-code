@@ -1,6 +1,6 @@
 # Midnight code theme
 
-A dark VS Code theme Web Developers
+A dark VS Code theme
 
 ## Install
 
