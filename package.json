@@ -19,7 +19,7 @@
                }
           ]
      },
-     "icon": "icon.png",
+     "icon": "logo.png",
      "repository": {
           "type": "git",
           "url": "https://github.com/AkmarNafi/midnight-code.git"
