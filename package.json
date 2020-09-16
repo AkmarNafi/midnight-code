@@ -1,22 +1,40 @@
 {
-    "name": "midnight-code",
-    "publisher":"akmarnafi",
-    "displayName": "Midnight Code",
-    "description": "Midnight Code VS Code Theme",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.49.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Midnight Code",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Midnight Code-color-theme.json"
-            }
-        ]
-    }
+     "name": "midnight-code",
+     "publisher": "akmarnafi",
+     "displayName": "Midnight Code",
+     "description": "Midnight Code VS Code Theme",
+     "version": "0.0.1",
+     "engines": {
+          "vscode": "^1.49.0"
+     },
+     "categories": [
+          "Themes"
+     ],
+     "contributes": {
+          "themes": [
+               {
+                    "label": "Midnight Code",
+                    "uiTheme": "vs-dark",
+                    "path": "./themes/Midnight Code-color-theme.json"
+               }
+          ]
+     },
+     "icon": "icon.png",
+     "repository": {
+          "type": "git",
+          "url": "https://github.com/AkmarNafi/midnight-code.git"
+     },
+     "homepage": "https://github.com/AkmarNafi/midnight-code/blob/master/README.md",
+     "keywords": [
+          "Vscode",
+          "Theme",
+          "vue",
+          "html",
+          "css",
+          "javascript",
+          "Midnight",
+          "code",
+          "dark"
+     ],
+     "author": "Akmar nafi <akmar.nafi@gmail.com> "
 }
