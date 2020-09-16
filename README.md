@@ -17,9 +17,9 @@ Launch VS Code Quick Open (ctrl/⌘ + P) then run
 ext install midnight-code
 ```
 
-## Screenshot
+## Screenshots
 
-Screenshot of HTML, CSS and JavaScript code
+### Screenshot of HTML, CSS and JavaScript code
 ![Theme Screenshot](screenshot-html.png)
 ![Theme Screenshot](screenshot-css.png)
 ![Theme Screenshot](screenshot-js.png)
