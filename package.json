@@ -1,0 +1,22 @@
+{
+    "name": "midnight-code",
+    "publisher":"akmarnafi",
+    "displayName": "Midnight Code",
+    "description": "Midnight Code VS Code Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Midnight Code",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Midnight Code-color-theme.json"
+            }
+        ]
+    }
+}
