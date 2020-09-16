@@ -8,7 +8,7 @@ A dark VS Code theme
 
 ## Install
 
-Launch VS Code Quick Open (⌘+P), paste the following command, and press enter.  
+Launch VS Code Quick Open (ctrl/⌘+P), paste the following command, and press enter.  
 ```
 ext install midnight-code
 ```
