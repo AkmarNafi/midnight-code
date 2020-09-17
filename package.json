@@ -2,7 +2,7 @@
      "name": "midnight-code",
      "publisher": "akmarnafi",
      "displayName": "Midnight Code",
-     "description": "Midnight Code VS Code Theme",
+     "description": "Dark VS Code Theme",
      "version": "0.5.0",
      "engines": {
           "vscode": "^1.49.0"
