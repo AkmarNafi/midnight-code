@@ -2,9 +2,9 @@
 
 A dark VS Code theme
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/akmarnafi.midnight-code.svg)](https://marketplace.visualstudio.com/items?itemName=midnight-code)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/akmarnafi.midnight-code.svg)](https://marketplace.visualstudio.com/items?itemName=midnight-code)
-[![Ratings](https://vsmarketplacebadge.apphb.com/rating/akmarnafi.midnight-code.svg)](https://marketplace.visualstudio.com/items?itemName=midnight-code)
+[![Version](https://vsmarketplacebadge.apphb.com/version/akmarnafi.midnight-code.svg)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.midnight-code)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/akmarnafi.midnight-code.svg)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.midnight-code)
+[![Ratings](https://vsmarketplacebadge.apphb.com/rating/akmarnafi.midnight-code.svg)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.midnight-code)
 
 ## Install
 
