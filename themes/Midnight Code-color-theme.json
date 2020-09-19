@@ -556,10 +556,10 @@
                }
           },
           {
-               "name": "js imports from",
-               "scope": ["string.quoted.single.js"],
+               "name": "js strings",
+               "scope": ["string.quoted.single.js","string.quoted.double.js"],
                "settings": {
-                    "fontStyle": "italic"
+                    "fontStyle": ""
                }
           },
 
@@ -619,6 +619,15 @@
                "scope": "entity.name.function.js",
                "settings": {
                     "foreground": "#98C379"
+               }
+          },
+
+          
+           {
+               "name": "Javascript class keyword",
+               "scope": "storage.type.class.js",
+               "settings": {
+                    "foreground": "#E06C75"
                }
           },
           {
