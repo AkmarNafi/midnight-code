@@ -5,20 +5,17 @@
 <h1 align="center">
   
    Midnight code (VS Code Theme)
+
  
-</h1>
-</div>
 
-
-
-
-<div align="center">
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/akmarnafi.midnight-code.svg)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.midnight-code)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/akmarnafi.midnight-code.svg)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.midnight-code)
 [![Ratings](https://vsmarketplacebadge.apphb.com/rating/akmarnafi.midnight-code.svg)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.midnight-code)
-![dependencies](https://img.shields.io/david/dev/AkmarNafi/midnight-code)
+
+</h1>
 </div>
+
 
 ## Install
 
