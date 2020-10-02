@@ -22,4 +22,4 @@ ext install midnight-code
 ![Theme Screenshot](screenshot-js.png)
 
 #
-Happy coding  `:trollface:`
+Happy coding  :trollface:
