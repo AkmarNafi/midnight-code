@@ -1,4 +1,17 @@
-# Midnight code (VS Code Theme)
+<div align="center">
+
+![Theme Screenshot](logo.png)
+
+<h1 align="center">
+  
+   Midnight code (VS Code Theme)
+ 
+</h1>
+</div>
+
+
+
+
 <div align="center">
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/akmarnafi.midnight-code.svg)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.midnight-code)
