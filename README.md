@@ -1,6 +1,5 @@
-# Midnight code theme
+# Midnight code (VS Code Theme)
 <div align="center">
-
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/akmarnafi.midnight-code.svg)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.midnight-code)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/akmarnafi.midnight-code.svg)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.midnight-code)
@@ -8,15 +7,12 @@
 ![dependencies](https://img.shields.io/david/dev/AkmarNafi/midnight-code)
 </div>
 
-#
-
 ## Install
 
 Launch VS Code Quick Open (ctrl/⌘+P), paste the following command, and press enter.  
 ```
 ext install midnight-code
 ```
-#
 ## Screenshots
 
 ### Screenshot of HTML, CSS and JavaScript code
@@ -25,4 +21,5 @@ ext install midnight-code
 ![Theme Screenshot](screenshot-js.png)
 
 #
-<p style="text-align: center;">Happy coding  :trollface:</p>
+
+<div align="center">Happy coding  :trollface:</div>
