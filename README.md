@@ -22,4 +22,4 @@ ext install midnight-code
 
 #
 
-<div align="center">Happy coding  :trollface:</div>
+<div align="center">Happy Coding  :trollface:</div>
