@@ -3,7 +3,7 @@
      "publisher": "akmarnafi",
      "displayName": "Midnight Code",
      "description": "Dark VS Code Theme",
-     "version": "0.10.0",
+     "version": "0.11.0",
      "engines": {
           "vscode": "^1.49.0"
      },
