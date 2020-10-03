@@ -31,6 +31,7 @@ ext install midnight-code
 ![Theme Screenshot](images/screenshot-js.png)
 
 <br>
+<div align="center">&#10066;&#10066;&#10066;</div>
 <br>
-
+<br>
 <div align="center">Happy Coding  <img width="20" src="images/trollface.png"> </div>
