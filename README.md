@@ -1,6 +1,6 @@
 <div align="center">
 
-![Theme Screenshot](logo.png)
+![Theme Screenshot](images/logo.png)
 
 <h1 align="center">
   
@@ -26,11 +26,11 @@ ext install midnight-code
 ## Screenshots
 
 ### Screenshot of HTML, CSS and JavaScript code
-![Theme Screenshot](screenshot-html.png)
-![Theme Screenshot](screenshot-css.png)
-![Theme Screenshot](screenshot-js.png)
+![Theme Screenshot](images/screenshot-html.png)
+![Theme Screenshot](images/screenshot-css.png)
+![Theme Screenshot](images/screenshot-js.png)
 
 <br>
 <br>
 
-<div align="center">Happy Coding  :trollface:</div>
+<div align="center">Happy Coding  <img width="20" src="images/trollface.png"> </div>
